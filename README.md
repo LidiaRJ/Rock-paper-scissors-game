@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-[![Wins_version](https://github.com/LidiaRJ/Rock-paper-scissors-game/blob/main/screenshots/RPS%20game%20loses.png)](https://github.com/LidiaRJ/Rock-paper-scissors-game/blob/main/screenshots/RPS%20game%20loses.png)
+[![Wins_version](https://github.com/LidiaRJ/Rock-paper-scissors-game/blob/main/screenshots/RPS%20game%20wins.png)](https://github.com/LidiaRJ/Rock-paper-scissors-game/blob/main/screenshots/RPS%20game%20wins.png)
 [![Loses_version](https://github.com/LidiaRJ/Rock-paper-scissors-game/blob/main/screenshots/RPS%20game%20loses.png)](https://github.com/LidiaRJ/Rock-paper-scissors-game/blob/main/screenshots/RPS%20game%20loses.png)
 
 ### Links
