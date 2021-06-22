@@ -30,13 +30,13 @@ Users should be able to:
 
 ### Screenshot
 
-[![Desktop_version](https://github.com/LidiaRJ/insure-landing-page/blob/main/screenshots/insure-landing-page-desktop.jpg)](https://github.com/LidiaRJ/insure-landing-page/blob/main/screenshots/insure-landing-page-desktop.jpg)
-[![Mobile_version](https://github.com/LidiaRJ/insure-landing-page/blob/main/screenshots/insure-landing-page-mobile.jpg)](https://github.com/LidiaRJ/insure-landing-page/blob/main/screenshots/insure-landing-page-mobile.jpg)
+[![Desktop_version](https://github.com/LidiaRJ/Rock-paper-scissors-game/blob/main/screenshots/RPS%20game%20loses.png)](https://github.com/LidiaRJ/Rock-paper-scissors-game/blob/main/screenshots/RPS%20game%20loses.png)
+[![Mobile_version](https://github.com/LidiaRJ/Rock-paper-scissors-game/blob/main/screenshots/RPS%20game%20loses.png)](https://github.com/LidiaRJ/Rock-paper-scissors-game/blob/main/screenshots/RPS%20game%20loses.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [(https://github.com/LidiaRJ/Rock-paper-scissors-game)](https://github.com/LidiaRJ/Rock-paper-scissors-game)
+- Live Site URL: [https://lidiarj.github.io/Rock-paper-scissors-game/](https://lidiarj.github.io/Rock-paper-scissors-game/)
 
 ## My process
 
