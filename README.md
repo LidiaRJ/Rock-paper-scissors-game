@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Screenshot
 
-[![Desktop_version](https://github.com/LidiaRJ/Rock-paper-scissors-game/blob/main/screenshots/RPS%20game%20loses.png)](https://github.com/LidiaRJ/Rock-paper-scissors-game/blob/main/screenshots/RPS%20game%20loses.png)
-[![Mobile_version](https://github.com/LidiaRJ/Rock-paper-scissors-game/blob/main/screenshots/RPS%20game%20loses.png)](https://github.com/LidiaRJ/Rock-paper-scissors-game/blob/main/screenshots/RPS%20game%20loses.png)
+[![Wins_version](https://github.com/LidiaRJ/Rock-paper-scissors-game/blob/main/screenshots/RPS%20game%20loses.png)](https://github.com/LidiaRJ/Rock-paper-scissors-game/blob/main/screenshots/RPS%20game%20loses.png)
+[![Loses_version](https://github.com/LidiaRJ/Rock-paper-scissors-game/blob/main/screenshots/RPS%20game%20loses.png)](https://github.com/LidiaRJ/Rock-paper-scissors-game/blob/main/screenshots/RPS%20game%20loses.png)
 
 ### Links
 
